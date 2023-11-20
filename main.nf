@@ -1,4 +1,6 @@
 #!/usr/bin/env nextflow
+
+nextflow.enable.dsl=2
  
 /*
  * Defines the pipeline input parameters (with a default value for each one).
